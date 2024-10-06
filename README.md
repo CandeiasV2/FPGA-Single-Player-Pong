@@ -2,6 +2,8 @@
 
 A simple, single-player Pong game implemented on an FPGA board. The player controls the paddle using the UP and DN buttons, while a computer-controlled paddle automatically tracks the ball. The game includes a score counter, which resets the game after one player reaches three goals.
 
+![Game on a Monitor](https://github.com/CandeiasV2/FPGA-Single-Player-Pong/blob/main/MonitorImage.jpg)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
